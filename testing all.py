@@ -1,4 +1,4 @@
-# Import necessary classes from the modules
+# Import from the other files
 from ebook import Ebook
 from catalog import Catalog
 from person import Person
